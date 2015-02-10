@@ -1,0 +1,13 @@
+:host {
+  display: block;
+
+  .board {
+  	perspective: 1000;
+  }
+  p {
+  	margin-left: 10px;
+  }
+}
+#replay::shadow #ripple {
+	color: blue;
+}
